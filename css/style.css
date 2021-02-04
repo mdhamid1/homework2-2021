@@ -34,7 +34,7 @@ div{
 	padding: 25px;
 }
 
-footer{
+footer p{
 	text-align: center;
 	padding-right: 10px;
 	padding-bottom: 10px;	
@@ -46,16 +46,23 @@ footer{
 }
 
 #blue{
-	background: #3333FF;
+	background: blue;
 	text-align: left;
 }
 
+
 #yellow{
-	background: #FFFF33;
+	background: yellow;
 	text-align: right;
+}
+
+#yellow h2{	
 	color: #000000;
 	text-shadow: 4px 4px 2px #c7e2c7;
-	
+}
+
+#yellow p{
+	color: #000000;
 }
 
 #green{
